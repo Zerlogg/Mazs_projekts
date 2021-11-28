@@ -1,14 +1,13 @@
 # Mazais_projekts
 # Projekta nosaukums
-  - Sudoku
+  - Sudoku mīklas risinātājs
 ## Apraksts
-	Taisīšu sudoku mīklu ar c++ kurā būs jāizvieto ciparus tā, lai katrā mīklas rindā, kolonnā un blokā tie neatkārtotos. Klasiskā sudoku izmērs is 9x9 rūtiņas, kas sadalītas blokos pa deviņiem kvadrātiskiem lauciņiem. 
+	Uztaisīju sudoku mīklas risinātāju. Lietotājs ievada neatrisinātu sudoku mīklu consolē, programma izvada pilnībā atrisinātu sudoku mīklu priekš lietotāja.
 ## Galvenās funkcijas
 	- Ievadīt tekstu
 	- Apstrādāt datus
 	- utt
 ## Izmantotās tehnoloģijas
 	- C++
-	- Visual Studio Code
 ## Izmantotie avoti
 	- Vēl nav
